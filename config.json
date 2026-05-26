@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchsync",
+        "uuid": 4737857,
+        "checksum": "luofsu"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
